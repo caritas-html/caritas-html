@@ -12,7 +12,7 @@ I'm Leo, a brazilian developer enthusiastic about chess, coding and reading!
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,vue,webpack,vite,jest,java" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,vue,webpack,vite,jest,java,elixir" />
   </a>
 </p>
 
